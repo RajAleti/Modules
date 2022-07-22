@@ -1,0 +1,3 @@
+[submodule "diagnostic_log_analytics"]
+	path = diagnostic_log_analytics
+	url = https://github.com/RajAleti/terraform-azurerm-caf-log-analytics.git
